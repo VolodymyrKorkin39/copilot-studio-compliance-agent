@@ -101,8 +101,7 @@ specific rule number) plus a 13-row pass/fail table:
 - Sources cited: exactly one — `illustrative-compliance-checklist.txt`. No external
   regulation appeared anywhere in the response.
 
-See [`screenshots/test-poisoned-draft-annotated.png`](screenshots/test-poisoned-draft-annotated.png)
-and [`screenshots/test-poisoned-draft-checklist.png`](screenshots/test-poisoned-draft-checklist.png).
+See [`screenshots/test-poisoned-draft-02-annotated.png`](screenshots/test-poisoned-draft-02-annotated.png) for the annotated draft, [`screenshots/test-poisoned-draft-03.png`](screenshots/test-poisoned-draft-03.png) and [`screenshots/test-poisoned-draft-04.png`](screenshots/test-poisoned-draft-04.png) for the rule-by-rule pass/fail table, and [`screenshots/test-poisoned-draft-05-verdict.png`](screenshots/test-poisoned-draft-05-verdict.png) for the final verdict.
 
 **Test 2 — a direct attempt to get it to cite real regulation:**
 
