@@ -1,0 +1,15 @@
+ILLUSTRATIVE COMPLIANCE CHECKLIST (demo purposes only, not real firm policy):
+
+1. Any mention of past performance must include: "Past performance is not indicative of future results."
+2. Any specific return figure must be paired with an "as of [date]" label.
+3. Prohibited guarantee language: "guaranteed," "risk-free," "no risk," "best," "top-performing" (unless sourced and qualified).
+4. Benchmark comparisons must name the benchmark and time period.
+5. Any specific fund mention requires an applicable risk disclosure.
+6. Retail-facing materials must avoid unexplained technical jargon.
+7. Social posts citing performance figures need an abbreviated disclaimer plus a link to full disclosures.
+8. No forward-looking performance claims ("will outperform," "expected to deliver X%").
+9. Third-party testimonials always require elevated human review.
+10. Institutional-only content shared publicly requires a predistribution-restriction check.
+11. Fee/expense figures must not imply misleading net-of-fee returns.
+12. Third-party rankings/awards require a date and named source.
+13. Any competitor comparison always requires compliance review, regardless of other flags.
